@@ -29,3 +29,5 @@
       storage = "/acme/acme.json"
       caServer = "https://acme-v01.api.letsencrypt.org/directory"
     [certificatesResolvers.default.acme.tlsChallenge]
+
+[accessLog]
